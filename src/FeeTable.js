@@ -178,7 +178,7 @@ class FeeTable extends Component {
 
         return (
             <Col sm="12" md={{ size: 8}}>
-            <Table dark striped >
+            <Table dark striped responsive="md">
                 <thead>
                     <tr>
                         <th>#</th>
