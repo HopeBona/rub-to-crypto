@@ -4,7 +4,53 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://ipfs.io/ipfs/QmWXN2NtkaboodSWV5hZH52vat5QD5APBQR2fBKS9EX5Xh
 
-## Find the best rate to exchange your roubles to crypto
+## Description
+
+Find the best rate to exchange your roubles to crypto
+
+###Algorithm
+
+- Downloads zip-archive with data from https://www.bestchange.ru/ in memory of a browser
+- Fetches market prices from  https://www.cryptocompare.com/
+- Calculates differences between rates of specific assets
+    - <details><summary>Crypto Assets</summary>
+   
+        - BTC
+        - ETH
+        - BCH
+        - BSV
+        - BTG
+        - ETC
+        - LTC
+        - XRP
+        - XMR
+        - DASH
+        - ZEC
+        - USD
+        - PAX
+        - XEM
+        - REP
+        - NEO
+        - EOS
+        - IOTA
+        - LSK
+        - ADA
+        - XLM
+        - WAVES
+        - OMG
+        - BNB
+        - ICX
+        - BA
+      </details>
+    - <details><summary>Fiat Assets</summary>
+    
+        - Sberbank Roubles
+        - Yandex Money Roubles
+        - QIWI Roubles
+        
+      </details>
+- Sorts values
+- Screens top 12
 
 In the project directory, you can run:
 
