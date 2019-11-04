@@ -13,8 +13,7 @@ Find the best rate to exchange your roubles to crypto
 - Downloads zip-archive with data from https://www.bestchange.ru/ in memory of a browser
 - Fetches market prices from  https://www.cryptocompare.com/
 - Calculates differences between rates of specific assets
-    - <details><summary>Crypto Assets</summary>
-   
+    <details><summary>Crypto Assets</summary>
         - BTC
         - ETH
         - BCH
@@ -41,14 +40,12 @@ Find the best rate to exchange your roubles to crypto
         - BNB
         - ICX
         - BA
-      </details>
-    - <details><summary>Fiat Assets</summary>
-    
+    </details>
+    <details><summary>Fiat Assets</summary>    
         - Sberbank Roubles
         - Yandex Money Roubles
-        - QIWI Roubles
-        
-      </details>
+        - QIWI Roubles        
+    </details>
 - Sorts values
 - Screens top 12
 
