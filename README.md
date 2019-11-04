@@ -14,37 +14,41 @@ Find the best rate to exchange your roubles to crypto
 - Fetches market prices from  https://www.cryptocompare.com/
 - Calculates differences between rates of specific assets
     <details><summary>Crypto Assets</summary>
-        - BTC
-        - ETH
-        - BCH
-        - BSV
-        - BTG
-        - ETC
-        - LTC
-        - XRP
-        - XMR
-        - DASH
-        - ZEC
-        - USD
-        - PAX
-        - XEM
-        - REP
-        - NEO
-        - EOS
-        - IOTA
-        - LSK
-        - ADA
-        - XLM
-        - WAVES
-        - OMG
-        - BNB
-        - ICX
-        - BA
+        <ul>
+            <li>BTC</li>
+            <li>ETH</li>
+            <li>BCH</li>
+            <li>BSV</li>
+            <li>BTG</li>
+            <li>ETC</li>
+            <li>LTC</li>
+            <li>XRP</li>
+            <li>XMR</li>
+            <li>DASH</li>
+            <li>ZEC</li>
+            <li>USD</li>
+            <li>PAX</li>
+            <li>XEM</li>
+            <li>REP</li>
+            <li>NEO</li>
+            <li>EOS</li>
+            <li>IOTA</li>
+            <li>LSK</li>
+            <li>ADA</li>
+            <li>XLM</li>
+            <li>WAVES</li>
+            <li>OMG</li>
+            <li>BNB</li>
+            <li>ICX</li>
+            <li>BA</li>
+        </ul>
     </details>
-    <details><summary>Fiat Assets</summary>    
-        - Sberbank Roubles
-        - Yandex Money Roubles
-        - QIWI Roubles        
+    <details><summary>Fiat Assets</summary>
+        <ul>    
+            <li>Sberbank Roubles</li>
+            <li>Yandex Money Roubles</li>
+            <li>QIWI Roubles</li>    
+        </ul>    
     </details>
 - Sorts values
 - Screens top 12
