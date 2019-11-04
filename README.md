@@ -8,7 +8,7 @@ https://ipfs.io/ipfs/QmWXN2NtkaboodSWV5hZH52vat5QD5APBQR2fBKS9EX5Xh
 
 Find the best rate to exchange your roubles to crypto
 
-###Algorithm
+### Algorithm
 
 - Downloads zip-archive with data from https://www.bestchange.ru/ in memory of a browser
 - Fetches market prices from  https://www.cryptocompare.com/
