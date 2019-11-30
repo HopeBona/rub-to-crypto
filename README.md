@@ -40,7 +40,7 @@ Find the best rate to exchange your roubles to crypto and back
             <li>OMG</li>
             <li>BNB</li>
             <li>ICX</li>
-            <li>BA</li>
+            <li>BAT</li>
         </ul>
     </details>
     <details><summary>Fiat Assets</summary>
